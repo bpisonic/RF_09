@@ -1,0 +1,33 @@
+{
+  "name": "r8m_finder",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "core-js": "^3.6.4",
+    "cors": "^2.8.5",
+    "firebase": "^7.14.2",
+    "jquery": "^3.5.0",
+    "jw-vue-pagination": "^1.0.3",
+    "popper.js": "^1.16.1",
+    "tailwindcss": "^1.4.6",
+    "vue": "^2.6.11",
+    "vue-ads-pagination": "^2.1.7",
+    "vue-router": "^3.1.6",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.3.0",
+    "@vue/cli-plugin-router": "~4.3.0",
+    "@vue/cli-service": "~4.3.0",
+    "sass": "^1.26.3",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
